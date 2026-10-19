@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" shape-rendering="crispEdges">
+  <!-- Head -->
+  <rect x="16" y="0" width="32" height="32" fill="#FFC0CB" />
+  <!-- Body -->
+  <rect x="24" y="16" width="16" height="16" fill="#FFC0CB" />
+  <!-- Arms -->
+  <rect x="16" y="16" width="8" height="16" fill="#000000" />
+  <rect x="40" y="16" width="8" height="16" fill="#000000" />
+  <!-- Legs -->
+  <rect x="24" y="32" width="8" height="16" fill="#000000" />
+  <rect x="32" y="32" width="8" height="16" fill="#000000" />
+  <!-- Sunglasses -->
+  <rect x="20" y="8" width="4" height="4" fill="#000000" />
+  <rect x="36" y="8" width="4" height="4" fill="#000000" />
+  <rect x="24" y="8" width="16" height="4" fill="#000000" />
+  <!-- Cape -->
+  <rect x="24" y="32" width="16" height="16" fill="#008000" />
+  <!-- Video Game Controller -->
+  <rect x="28" y="36" width="4" height="8" fill="#000000" />
+  <rect x="32" y="36" width="4" height="8" fill="#000000" />
+  <!-- Ball -->
+  <circle cx="32" cy="44" r="4" fill="#000000" />
+  <!-- Crown -->
+  <polygon points="32,4 28,8 36,8" fill="#FFD700" />
+</svg>
